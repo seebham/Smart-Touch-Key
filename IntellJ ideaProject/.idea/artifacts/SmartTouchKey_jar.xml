@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmartTouchKey:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SmartTouchKey_jar</output-path>
+    <root id="archive" name="SmartTouchKey.jar">
+      <element id="module-output" name="SmartTouchKey" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../downloads/QR/javase-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.2/core-3.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../downloads/QR/core-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../downloads/JSON/json-20180813.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
